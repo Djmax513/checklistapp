@@ -13,7 +13,8 @@
 
 ## Tarefas (To-Do)
 
-- [ ] Criar repo
+- [x] Criar repo
+- [ ] Criar layout do app
 - [ ] Criar uma base no mongodb pra armazenar usuários 
 - [ ] Permitir criar um usuário (login (email?)/senha/nome)
 - [ ] Permitir fazer o login
