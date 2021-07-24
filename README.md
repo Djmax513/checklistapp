@@ -13,4 +13,13 @@
 
 ## Tarefas (To-Do)
 
-- [ ] ola mundo
+- [ ] Criar repo
+- [ ] Criar uma base no mongodb pra armazenar usuários 
+- [ ] Permitir criar um usuário (login (email?)/senha/nome)
+- [ ] Permitir fazer o login
+- [ ] Dashboard do todo (visualizar)
+- [ ] Criar um novo todo
+- [ ] Editar um todo
+- [ ] Excluir um todo
+- [ ] Persitir todo na base
+- [ ] Permitir adicionar outros usuários
